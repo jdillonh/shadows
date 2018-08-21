@@ -1,4 +1,4 @@
-//0 -> 629
+//record from 0 -> 629 for a nice loop
 
 square a;
 int frame = 1;
