@@ -15,10 +15,6 @@ void setup()
 
 void draw()
 {
-  if(frame == 630 && recording) 
-  {
-    throw new NegativeArraySizeException();
-  }
   println(frame);
   frame += 1;
   background(0);
